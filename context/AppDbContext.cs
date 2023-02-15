@@ -12,7 +12,7 @@ namespace sorveteriaMVC.context
         {
         }
 
-        
+        public DbSet<Sorvete> Sorvetes { get; set; }
     }
     
 }

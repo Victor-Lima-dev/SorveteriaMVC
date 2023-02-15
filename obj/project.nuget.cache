@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0A5nyP10UzijtAWcvOYMQfB7FzxItDXZji+FTDBeOBhV/duxy2V6c8iuZfoNjj9cmvq6HJpbt+oKaOVgnzpRtA==",
+  "dgSpecHash": "DSRoDRanVq3PClVp9ysx4r8xgDm8ft9HI9hy+IdaZEJ7GdcQFjlQZUR9nF/WG5mmlK6y7d6DNme8WNIk8IHUKg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Vitor\\Desktop\\code\\sorveteriaMVC\\sorveteriaMVC.csproj",
+  "projectFilePath": "C:\\Users\\Vitor\\Desktop\\code\\sorveteriaMVC\\sorveteriaMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vitor\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Vitor\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
