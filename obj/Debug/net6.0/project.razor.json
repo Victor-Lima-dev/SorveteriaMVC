@@ -18374,6 +18374,11 @@
   "RootNamespace": "sorveteriaMVC",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Vitor\\Desktop\\code\\sorveteriaMVC\\Views\\Sorvetes\\Listar.cshtml",
+      "TargetPath": "Views\\Sorvetes\\Listar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Vitor\\Desktop\\code\\sorveteriaMVC\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18391,6 +18396,11 @@
     {
       "FilePath": "c:\\Users\\Vitor\\Desktop\\code\\sorveteriaMVC\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Vitor\\Desktop\\code\\sorveteriaMVC\\Views\\Sorvetes\\Cadastrar.cshtml",
+      "TargetPath": "Views\\Sorvetes\\Cadastrar.cshtml",
       "FileKind": "mvc"
     },
     {

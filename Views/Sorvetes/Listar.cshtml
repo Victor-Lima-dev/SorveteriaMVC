@@ -1,0 +1,20 @@
+@model IEnumerable<sorveteriaMVC.Models.Sorvete>
+
+    <div>
+       <h1>Todos os Sorvetes</h1>
+       @{
+        foreach (var sorvete in Model)
+        {
+            <div>
+                <p>@sorvete.Nome</p>
+                <p>@sorvete.Sabor</p>
+                <p>@sorvete.Preco</p>
+            </div>
+        }
+       }    
+
+
+        
+    </div>
+
+    
